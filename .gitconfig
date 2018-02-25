@@ -1,13 +1,10 @@
-[user]
-        name = psyanite
-        email = psyanite@gmail.com
 [color]
         diff = auto
         status = auto
         branch = auto
         interactive = auto
 [alias]
-        st = status
+        st = status -b
         ci = commit
         co = checkout
         sb = submodule update --init --recursive
@@ -18,8 +15,8 @@
         la = log --graph --decorate --oneline --abbrev-commit
         li = log --graph --decorate --oneline --abbrev-commit -10
         lo = log --format=format:'%C(bold magenta)%h%C(reset) - %C(auto)%d%C(reset) %C(white)%s%C(reset) %C(bold dim white)- %an%C(reset) %C(dim white)(%ar)%C(reset) %C(dim white)(%ad)%C(reset)' --all --date=local --graph --abbrev-commit --decorate
-        rb = rebase
- 
+	rb = rebase
+	rbc = rebase --continue 
 [core]
         eol = lf
 [log]

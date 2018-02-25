@@ -1,0 +1,11 @@
+# Github Psyanite
+Host github.com
+  HostName github.com
+  User git
+  IdentityFile ~/.ssh/id_rsa_github_psyanite
+
+# Bitbucket Psyanite
+Host bitbucket.org
+  HostName bitbucket.org
+  User psyanite
+  IdentityFile ~/.ssh/id_rsa_bitbucket_psyanite
