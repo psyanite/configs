@@ -7,4 +7,4 @@
 4. `cp .bashrc ../.bashrc`
 5. `cp .gitconfig ../.gitconfig`
 6. `cp git-prompt.sh  /c/Program\ Files/Git/etc/profile.d/git-prompt.sh`
-7. `cp ssh/config ../ssh/config`
+7. `cp ssh/config ../.ssh/config`
