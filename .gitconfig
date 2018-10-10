@@ -15,10 +15,13 @@
         la = log --graph --decorate --oneline --abbrev-commit
         li = log --graph --decorate --oneline --abbrev-commit -10
         lo = log --format=format:'%C(bold magenta)%h%C(reset) - %C(auto)%d%C(reset) %C(white)%s%C(reset) %C(bold dim white)- %an%C(reset) %C(dim white)(%ar)%C(reset) %C(dim white)(%ad)%C(reset)' --all --date=local --graph --abbrev-commit --decorate
-	rb = rebase
-	rbc = rebase --continue 
+        rb = rebase
+        rbc = rebase --continue
+
+        fetchall = remote update origin --prune
 [core]
         eol = lf
+        autocrlf = false
 [log]
         date = local
         abbrevCommit = true
