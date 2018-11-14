@@ -6,13 +6,14 @@
       <w>expectedly</w>
       <w>fullscreenchange</w>
       <w>mozfullscreenchange</w>
+      <w>persistor</w>
       <w>redux</w>
       <w>swipeable</w>
       <w>touchmove</w>
       <w>unmount</w>
       <w>unmounts</w>
-      <w>webkitfullscreenchange</w>
       <w>upsert</w>
+      <w>webkitfullscreenchange</w>
     </words>
   </dictionary>
 </component>
