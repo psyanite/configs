@@ -9,10 +9,4 @@ Host bitbucket.org
   HostName bitbucket.org
   User psyanite
   IdentityFile ~/.ssh/id_rsa_bitbucket_psyanite
-  
-  
-# Bitbucket Snooperyan
-Host bitbucket.org
-  HostName bitbucket.org
-  User snooperyan
-  IdentityFile ~/.ssh/id_rsa_bitbucket_snooperyan
+ 
