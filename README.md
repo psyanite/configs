@@ -8,3 +8,11 @@
 5. `cp .gitconfig ../.gitconfig`
 6. `cp git-prompt.sh  /c/Program\ Files/Git/etc/profile.d/git-prompt.sh`
 7. `cp ssh/config ../.ssh/config`
+
+
+# Add history commands for up down arrows
+Add the following text to  `~/.inputrc`
+```
+"\e[A": history-search-backward
+"\e[B": history-search-forward
+```
