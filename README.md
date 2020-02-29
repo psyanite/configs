@@ -10,7 +10,7 @@
 7. `cp ssh/config ../.ssh/config`
 
 
-### Add history commands for up down arrows
+## Add history shortcuts for up down arrows
 Add the following text to  `~/.inputrc`
 ```
 "\e[A": history-search-backward
