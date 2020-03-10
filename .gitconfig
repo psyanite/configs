@@ -29,4 +29,4 @@
         date = local
         abbrevCommit = true
 [push]
-        default = upstream
+        default = current
