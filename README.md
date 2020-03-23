@@ -16,3 +16,9 @@ Add the following text to  `~/.inputrc`
 "\e[A": history-search-backward
 "\e[B": history-search-forward
 ```
+
+## iTerm
+* Install zshrc
+* Install spaceship theme
+* Install Palenight color theme
+* Add aliases from `.bashrc`
