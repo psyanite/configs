@@ -21,4 +21,4 @@ Add the following text to  `~/.inputrc`
 * Install zshrc
 * Install spaceship theme
 * Install Palenight color theme
-* Add aliases from `.bashrc`
+* Add theme and aliases from `.zshrc` to `~/.zshrc`
