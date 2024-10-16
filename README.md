@@ -19,7 +19,7 @@ Add the following text to  `~/.inputrc`
 
 ## iTerm
 * Install zshrc
-* Install spaceship theme
+* Choose (colour theme)[https://iterm2colorschemes.com/]
 * Install Palenight color theme
 * Add theme and aliases from `.zshrc` to `~/.zshrc`
 
