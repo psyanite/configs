@@ -19,8 +19,8 @@ Add the following text to  `~/.inputrc`
 
 ## iTerm
 * Install zshrc
-* Choose (colour theme)[https://iterm2colorschemes.com/]
-* Install Palenight color theme
+* Install [spaceship](https://github.com/spaceship-prompt/spaceship-prompt)
+* Choose [colour theme](https://iterm2colorschemes.com/)
 * Add theme and aliases from `.zshrc` to `~/.zshrc`
 
 ## Key Repeat
