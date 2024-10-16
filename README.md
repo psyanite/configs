@@ -22,3 +22,9 @@ Add the following text to  `~/.inputrc`
 * Install spaceship theme
 * Install Palenight color theme
 * Add theme and aliases from `.zshrc` to `~/.zshrc`
+
+## Key Repeat
+```
+defaults write -g InitialKeyRepeat -int 15
+defaults write -g KeyRepeat -int 2
+```
