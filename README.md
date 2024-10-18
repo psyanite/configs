@@ -19,6 +19,7 @@ Add the following text to  `~/.inputrc`
 
 ## iTerm
 * Install zshrc
+* Install [oh-my-zsh](https://ohmyz.sh/#install)
 * Install [spaceship](https://github.com/spaceship-prompt/spaceship-prompt)
 * Choose [colour theme](https://iterm2colorschemes.com/)
 * Add theme and aliases from `.zshrc` to `~/.zshrc`
