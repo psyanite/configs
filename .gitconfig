@@ -32,7 +32,7 @@
         p = push
         
         fetchall = remote update origin --prune
-	fa = remote update origin --prune
+	    fa = remote update origin --prune
 [core]
         eol = lf
         autocrlf = false
