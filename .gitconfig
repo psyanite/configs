@@ -25,9 +25,9 @@
         ci = commit
         cia = commit --amend
         cis = commit --amend --no-edit
-	meow = commit -m meow
+	    meow = commit -m meow
 
-	s = status -b
+	    s = status -b
         b = branch
         p = push
         
